@@ -25,11 +25,7 @@ This Python script generates strong, random passwords to enhance your online sec
 
 ## Usage
 
-You can modify the MAX_LEN variable to generate passwords of different lengths. To generate a password, simply run the script.
-
-bash
-python random_password_generator.py
-
+You can modify the MAX_LEN variable to generate passwords of different lengths. 
 
 This tool can be a valuable addition to your cybersecurity practices, creating robust, unique passwords to enhance the security of your digital accounts.
 
